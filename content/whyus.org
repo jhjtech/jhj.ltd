@@ -1,0 +1,20 @@
+#+TITLE: JHJ Technology: Why Choose Us?
+
+[[file:index.org][Home]]
+
+We are industry experts in leading-core technologies.
+
+** Tailored solutions
+
+We understand that every business is unique. Our team works closely with you to develop custom solutions
+that address your specific challenges and goals.
+
+** Experienced Professionals
+
+Benefit from the expertise of our skilled professionals who have a proven track record in delivering
+successful IT projects across various industries.
+
+** Cutting-Edge Technologies
+
+Stay at the forefront of technology advancements with our innovative solutions, ensuring your business
+remains agile and adaptable in the digital landscape.

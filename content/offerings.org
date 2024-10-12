@@ -1,0 +1,25 @@
+#+TITLE: JHJ Technology: Our Offerings
+
+[[file:index.org][Home]]
+
+We offer a comprehensive set of software development service to drive your company towards success.
+
+** Clojure Consultancy
+
+Our consultants provide experience and skill in the areas of functional programming
+and distributed systems, making us the perfect choice.
+
+** Technical Leadership
+
+We stay up-to-date with the latest technology trends and offer innovative solutions that help
+you stay ahead of the competition.
+
+** Bootstrapping Startups
+
+Our tech stack allows for rapid iteration and short lead times, allowing you to realise
+and bring your ideas to market quickly.
+
+** Product Prototyping
+
+We are specialists in rapid prototyping and MVP building. The quicker we can get a viable
+version of your product in front of users, the better.

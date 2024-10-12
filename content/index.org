@@ -1,0 +1,10 @@
+#+TITLE: JHJ Technology: Software Development
+
+[[file:about.org][About Us]] [[file:approach.org][Our Approach]] [[file:offerings.org][Our Offerings]] [[file:whyus.org][Why Us?]] [[file:clients.org][Our Clients]] 
+
+Boost Efficiency, Drive Growth, and Enhance Customer Experiences!
+
+Transforming Your Business with Innovative IT Solutions
+
+We provide bespoke software development and consulting services with a focus on delivery while
+taking a pragmatic approach and striving for simple and maintainable solutions.

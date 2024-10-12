@@ -1,0 +1,42 @@
+#+TITLE: JHJ Technology: Our Clients
+
+[[file:index.org][Home]]
+
+Just some of our fantastic success stories!
+
+** Crossref
+
+Crossref: makes research outputs easy to find, cite, link, assess, and reuse.
+
+*** Services Provided
+
++ Clojure Software Development
+
+*** The Tech
+
++ Clojure and Kotlin
+
+** Algorithmica
+
+Algorithmica: an IT consultancy and service provider based in London.
+
+*** Services Provided
+
++ Clojure Software Development
+
+*** The Tech
+
++ Clojure and ClojureSCript
+
+** BAGS
+
+Bookmakers Afternoon Greyhound Service: offers gambling-betting services.
+
+*** Services Provided
+
++ Clojure Software Development
+
+*** The Tech
+
++ Clojure and ClojureScript
++ PostgreSQL
