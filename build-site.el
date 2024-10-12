@@ -48,10 +48,11 @@
        (list "jhj-org-site"
              :recursive t
              :base-directory "./content"
-             :with-author t           ;; Don't include author name
-             :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc nil                ;; Include a table of contents
-             :section-numbers nil       ;; Don't include section numbers
+             :with-author nil
+             :with-creator nil            
+             :with-toc nil
+             :with-title nil
+             :section-numbers nil
              :publishing-directory "./docs"
              :publishing-function 'org-html-publish-to-html)))
 
