@@ -39,7 +39,7 @@ Most of all he's a nice bloke, who you can get on with and progress your project
 I couldn’t recommend Mark enough, you just won’t go wrong with him behind you. Thanks for all your help Mark! ⭐️
 #+END_QUOTE
 
-**** Why Clojure?
+*** Why Clojure?
 
 Mark started to learn Clojure around 10 years ago after becoming frustrated with working on large object
 oriented codebases written in Java and C#. Thinking that there must be a better way, he started investigating
