@@ -1,6 +1,8 @@
 #+TITLE: JHJ Technology: Our Offerings
 
-[[file:index.org][Home]]
+#+INCLUDE: "header.org"
+
+* What We Offer
 
 We offer a comprehensive set of software development service to drive your company towards success.
 

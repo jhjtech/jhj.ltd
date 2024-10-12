@@ -1,0 +1,42 @@
+*** Testimonials 
+
+#+BEGIN_QUOTE
+Getting to the heart of the problem is a specialist skill and one this team have in abundance.
+
+A focus on pragmatic solutions while keeping on top of the latest technology has really helped drive us forward.
+
+From UI development to database optimisation, Devcinch have made a massive contribution across the technology stack.
+
+*Ben Halton* /Founder & Leadership Consultant/
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+We have had nothing but a positive experience. Mark has a unique blend of a personable
+approach yet a highly experienced thought process when solving problems and building solutions.
+
+I value Mark's opinion as much as his work due to his pragmatic approach to what he does.
+Undoubtedly, he has helped optimize our development and our growth as a business.
+
+/Founder & Leadership at Keyframe Sports/
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Saved our business huge sums of money by replacing a legacy thick client application
+with a modern web based solution, removing the need for large amounts of private network infrastructure.
+
+Understanding the problem and coming up with great solutions is what these guys do, the team are
+approachable and fantastic communicators to all stakeholders and their technical expertise is second to none.
+
+*Marcus Westgage* /Product Manager/
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+We’ve worked with JHJ a number of times over the past five years. They have contributed features and bugfixes
+to our Clojure and Kotlin Spring Boot codebases.
+
+They have always been quick to pick up the context of our codebases, flexible, and have got
+started quickly.
+
+*Joe Wass* /Head of Software Development, Crossref/
+#+END_QUOTE
+

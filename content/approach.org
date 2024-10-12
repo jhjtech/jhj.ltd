@@ -1,6 +1,8 @@
 #+TITLE: JHJ Technology: Our Approach
 
-[[file:index.org][Home]]
+#+INCLUDE: "header.org"
+
+* Our Approach
 
 Client focused, with a love for pragmatic technology.
 

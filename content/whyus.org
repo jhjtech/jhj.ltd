@@ -1,6 +1,8 @@
 #+TITLE: JHJ Technology: Why Choose Us?
 
-[[file:index.org][Home]]
+#+INCLUDE: "header.org"
+
+* Why Choose Us?
 
 We are industry experts in leading-core technologies.
 
