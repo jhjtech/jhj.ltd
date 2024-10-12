@@ -52,7 +52,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :publishing-directory "./public"
+             :publishing-directory "./docs"
              :publishing-function 'org-html-publish-to-html)))
 
 ;; Customize the HTML output
