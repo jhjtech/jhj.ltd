@@ -40,3 +40,11 @@ started quickly.
 *Joe Wass* /Head of Software Development, Crossref/
 #+END_QUOTE
 
+#+BEGIN_QUOTE
+We used JHJ to bring some additional resource into our existing engineering team and have seen value in their offerings from the beginning. It was easy to get started and
+their detailed knowledge on backend systems has been invaluable.
+
+I would thoroughly recommend their services.
+
+*James Parmley* /Director of Engineering/
+#+END_QUOTE

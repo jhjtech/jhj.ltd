@@ -1,0 +1,9 @@
+#+TITLE: JHJ Technology: Health Partners Group
+
+#+INCLUDE: "header.org"
+
+* Health Partners Group
+
+A full-service occupational health company delivering end-to-end solutions.
+
+#+INCLUDE: "reviews.org" :lines "42-51"

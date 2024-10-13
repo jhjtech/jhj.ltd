@@ -1,0 +1,15 @@
+#+TITLE: JHJ Technology: Algorithmica
+
+#+INCLUDE: "header.org"
+
+* Algorithmica
+
+Algorithmica is an IT consultancy and service provider based in London.
+
+Algorithmica is a valued partner and we have collaborated on many projects together.
+
+Most of these projects are currently under NDA and typically involve rapid MVP prototyping. 
+
+We operate as their preferred partner for data integration platforms, infrastructure management, and web based product solutions. 
+
+#+INCLUDE: "reviews.org" :lines "2-12"
