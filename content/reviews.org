@@ -1,4 +1,7 @@
 *** Testimonials 
+:PROPERTIES:
+:CUSTOM_ID: testimonials
+:END:
 
 #+BEGIN_QUOTE
 Getting to the heart of the problem is a specialist skill and one this team have in abundance.

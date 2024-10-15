@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * Crossref
+:PROPERTIES:
+:CUSTOM_ID: crossref
+:END:
 
 Crossref makes research outputs easy to find, cite, link, assess, and reuse.
 

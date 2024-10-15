@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * Health Partners Group
+:PROPERTIES:
+:CUSTOM_ID: healthpartners
+:END:
 
 A full-service occupational health company delivering end-to-end solutions.
 

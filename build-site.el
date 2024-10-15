@@ -48,6 +48,7 @@
        (list "jhj-org-site"
              :recursive t
              :base-directory "./content"
+             :time-stamp-file nil
              :with-author nil
              :with-creator nil
              :with-toc nil

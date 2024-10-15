@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * About Us
+:PROPERTIES:
+:CUSTOM_ID: aboutus
+:END:
 
 We are a lean consultancy, providing agility and flexibility, rather than red tape and complex process.
 We work in small specialist "squads", rather than huge, resource wasteful development teams.
@@ -15,8 +18,14 @@ emphasis on the tech, often at the expense of the client, we want to flip that
 and focus on solution delivery for the client, the tech just facilitates that.
 
 ** Our People
+:PROPERTIES:
+:CUSTOM_ID: people
+:END:
 
 *** Mark Woodhall
+:PROPERTIES:
+:CUSTOM_ID: mark
+:END:
 
 *Founder*
 
@@ -40,6 +49,9 @@ I couldn’t recommend Mark enough, you just won’t go wrong with him behind yo
 #+END_QUOTE
 
 *** Why Clojure?
+:PROPERTIES:
+:CUSTOM_ID: whyclojure
+:END:
 
 Mark started to learn Clojure around 10 years ago after becoming frustrated with working on large object
 oriented codebases written in Java and C#. Thinking that there must be a better way, he started investigating

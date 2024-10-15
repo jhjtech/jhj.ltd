@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * BAGS
+:PROPERTIES:
+:CUSTOM_ID: bags
+:END:
 
 BAGS or Bookmakers Afternoon Greyhound Service offers gambling-betting services.
 

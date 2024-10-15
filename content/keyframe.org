@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * Keyframe Sports
+:PROPERTIES:
+:CUSTOM_ID: kfs
+:END:
 
 Keyframe Sports provide first class video telestration software.
 

@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * Our Clients
+:PROPERTIES:
+:CUSTOM_ID: clients
+:END:
 
 Just some of our fantastic success stories!
 

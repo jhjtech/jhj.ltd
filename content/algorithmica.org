@@ -3,6 +3,9 @@
 #+INCLUDE: "header.org"
 
 * Algorithmica
+:PROPERTIES:
+:CUSTOM_ID: algorithmica
+:END:
 
 Algorithmica is an IT consultancy and service provider based in London.
 
