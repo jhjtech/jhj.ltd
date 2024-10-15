@@ -51,6 +51,7 @@
              :with-author nil
              :with-creator nil
              :with-toc nil
+             :with-timestamps nil
              :with-title nil
              :section-numbers nil
              :publishing-directory "./docs"
