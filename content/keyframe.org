@@ -12,4 +12,4 @@ Keyframe Sports provide first class video telestration software.
 We started working with Keyframe Sports to help build their first class video
 telestration software and to steady their platform through a period of growth. 
 
-#+INCLUDE: "reviews.org" :lines "12-22"
+#+INCLUDE: "reviews.org" :lines "15-25"

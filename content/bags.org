@@ -18,7 +18,7 @@ infrastructure that was unreliable and difficult to manage, with no capability t
 We worked closely with BAGS stakeholders to build a modern, scalable, and secure platform that they could build on
 for the coming decades.  
 
-#+INCLUDE: "reviews.org" :lines "22-32"
+#+INCLUDE: "reviews.org" :lines "25-35"
 
 The fundamentals of this platform are in the many data integrations required, we worked closely with integration partners to facilitate 10+ fully featured data integrations,
 ranging from betting data to governance and compliance.  

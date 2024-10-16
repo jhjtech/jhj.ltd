@@ -28,4 +28,4 @@ deposit with Crossref when they register their content. And it’s not just the 
 funding data, license information, full-text links, ORCID iDs, abstracts, and Crossmark updates are in members’ metadata too.
 You can search, facet, filter, or sample metadata from thousands of members, and the results are returned in JSON.
 
-#+INCLUDE: "reviews.org" :lines "32-42"
+#+INCLUDE: "reviews.org" :lines "35-45"

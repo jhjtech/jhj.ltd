@@ -9,4 +9,4 @@ We can transform your business with innovative IT solutions.
 We provide bespoke software development and consulting services with a focus on delivery while
 taking a pragmatic approach and striving for simple maintainable, and cost effective solutions.
 
-#+INCLUDE: "reviews.org" :lines "3-13"
+#+INCLUDE: "reviews.org" :lines "6-16"
