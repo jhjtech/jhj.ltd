@@ -15,4 +15,4 @@ Most of these projects are currently under NDA and typically involve rapid MVP p
 
 We operate as their preferred partner for data integration platforms, infrastructure management, and web based product solutions. 
 
-#+INCLUDE: "reviews.org" :lines "2-12"
+#+INCLUDE: "reviews.org" :lines "5-15"
